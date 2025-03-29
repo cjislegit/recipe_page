@@ -1,0 +1,8 @@
+.descriptionContainer {
+  padding: 3rem 2rem;
+}
+
+.descriptionContainer p {
+  padding-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
