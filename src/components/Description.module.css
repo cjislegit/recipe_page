@@ -1,5 +1,6 @@
 .descriptionContainer {
   padding: 3rem 2rem;
+  max-width: 1350px;
 }
 
 .descriptionContainer p {
